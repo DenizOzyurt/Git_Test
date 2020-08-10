@@ -13,6 +13,11 @@ System.out.println("hello");
 				System.out.printf("%4d",i*j);
 			}
 			System.out.println();
+			System.out.println("deniz 16");
+			System.out.println("deniz 17");
+			System.out.println("deniz 18");
+			
+			
 }
 
 	}
