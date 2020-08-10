@@ -16,7 +16,9 @@ System.out.println("hello");
 			System.out.println("deniz 16");
 			System.out.println("deniz 17");
 			System.out.println("deniz 18");
-			
+			System.out.println("conflict 19");
+			System.out.println("conflict 20");
+			System.out.println("conflict 21");
 			
 }
 
